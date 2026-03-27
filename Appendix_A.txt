@@ -1,0 +1,12 @@
+Name,Call_Sign,Basic_Salary,Type
+Lim Lim Kee,DP-007,-,Part-time
+Tom Yam Kong,Maverick,1200,Full-time
+Sarah Tan,SwiftRider,-,Part-time
+Rajesh Kumar,IronHorse,1500,Full-time
+Mei Ling Wong,StarDrop,-,Part-time
+Ahmad Hassan,FalconX,1350,Full-time
+Jessica Lee,NightOwl,-,Part-time
+Daniel Chua,ThunderBolt,1250,Full-time
+Nurul Aisyah,Breeze,-,Part-time
+Kelvin Wong,RoadRunner,1400,Full-time
+Sally Tan,SpeedRider,-,Part-time
